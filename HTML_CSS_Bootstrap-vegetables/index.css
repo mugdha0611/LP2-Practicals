@@ -1,0 +1,42 @@
+body{
+    padding:10px;
+    font-family: 'open sans', sans-serif;
+}
+
+.h6{
+    color:#aaa;
+}
+
+img{
+    margin-right: 20px;
+}
+
+.well li{
+    margin-bottom: 5px;
+    color:#3498DB;
+}
+
+
+.well hr{
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  
+  .alert-danger{
+    color:#c0392b;
+  }
+  
+  .btn-primary{
+    background: -webkit-linear-gradient(top, #21a6ff, #006bad);
+    background: -moz-linear-gradient(top, #21a6ff, #006bad);
+    background: -ms-linear-gradient(top, #21a6ff, #006bad);
+    background: -o-linear-gradient(top, #21a6ff, #006bad);
+    background: linear-gradient(to bottom, #21a6ff, #006bad);
+    margin:0 0 20px 0;
+  }
+  
+  .twocol-table th:first-child{
+    width:50%;
+  }
